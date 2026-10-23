@@ -1,4 +1,4 @@
 
-# week02_demo
+# Week02_demo
 
-This is Lab
+This is Lab Week 02 from CHING LEONG CHEN
